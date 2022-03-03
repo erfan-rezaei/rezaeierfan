@@ -1,0 +1,18 @@
+body {
+    background: black;
+}
+#name {
+    color: whitesmoke;
+    font-family: "comic sans ms";
+}
+#describe {
+    color: whitesmoke;
+    font-family: "comic sans ms";
+}
+#orange {
+    color: orangered;
+}
+#photo {
+    margin-left: 950px;
+    margin-top: -130px;
+}
