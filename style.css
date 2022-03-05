@@ -16,3 +16,10 @@ body {
     margin-left: 950px;
     margin-top: -130px;
 }
+a {
+    color: white;
+  }
+  
+  a:hover {
+    color: orangered;
+  }
