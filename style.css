@@ -1,9 +1,11 @@
 body {
   background: black;
+  border-top: white 5px solid;
   color: white;
   font-family: "Roboto", sans-serif;
   height: 100vh;
   display: flex;
+  margin: 0;
   flex-direction: column;
   justify-content: center;
 }
